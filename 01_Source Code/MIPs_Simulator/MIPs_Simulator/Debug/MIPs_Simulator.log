@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\anish\01_university\03_semester 3\01_embedded systems\03_project\mips_simulator\mips_simulator\main.cpp(363): warning C4715: 'M_Sim::processOperation': not all control paths return a value
+  MIPs_Simulator.vcxproj -> C:\Anish\01_University\03_SEMESTER 3\01_EMBEDDED SYSTEMS\03_Project\MIPs_Simulator\Debug\MIPs_Simulator.exe
+  MIPs_Simulator.vcxproj -> C:\Anish\01_University\03_SEMESTER 3\01_EMBEDDED SYSTEMS\03_Project\MIPs_Simulator\Debug\MIPs_Simulator.pdb (Full PDB)
